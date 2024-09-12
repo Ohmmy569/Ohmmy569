@@ -6,7 +6,7 @@ Computer Science Stdent at KMUTNB
 
 * 🌍  I'm based in Bangkok Thailand
 * ✉️  You can contact me at [ohmmy569@gmail.com](mailto:ohmmy569@gmail.com)
-* 🧠  I'm learning Typesxcript Next.Js , React.js
+* 🧠  I'm learning Typescript Next.Js , React.js
 
 ### Skills
 
