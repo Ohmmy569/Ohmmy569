@@ -1,4 +1,4 @@
-# Hi 👋, I'm Woraviboon (Ohmmy) Mangmee
+# Hi 👋, I'm Woraviboon (Ohmmy) Mungmee
 
 **Full-stack Developer | Computer Science Student at KMUTNB**
 
