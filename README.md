@@ -24,13 +24,6 @@ I'm a passionate developer based in Bangkok, Thailand, focused on building moder
 
 ---
 
-### 🚀 Featured Projects
-
-- **PRiSM NEX** - A web application designed to improve the efficiency of in-depth machine health data analysis and anomaly prediction.
-- **Automotive Parts Management System** - A comprehensive stock management and frontend desktop calendar system built with Next.js, Supabase, and PostgreSQL.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -39,10 +32,4 @@ I'm a passionate developer based in Bangkok, Thailand, focused on building moder
 
 ---
 
-### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://github.com/Ohmmy569" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/ohmmy569" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="32" height="32" alt="Discord" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/ohmmy.worawiboon56789" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" width="32" height="32" alt="Facebook" /></a>
-</p>
-
-*⚡ Fun fact: When I'm not optimizing queries or hunting for bugs, I'm probably trying to survive another run in Risk of Rain 2 or fine-tuning my PC hardware.*
